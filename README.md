@@ -1,3 +1,5 @@
+![Update-Office365](/info.png)
+
 Description
 ==============
 -This sciprt helps you to update or rollback your Office 365 client.   
