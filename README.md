@@ -1,4 +1,4 @@
-Description
+#Description
 -This sciprt helps you to update or rollback your Office 365 client.
 -You can choose your build number or channel.
 -This sciprt change your update channel for Office 365 client.
@@ -6,16 +6,17 @@ Description
 -You may need to unblock this script. (User Unblock-File cmdlet or right click - Properties - Unblock)
 -You need to run Internet Explorer if you get a blank drop down list of Version field. (Initial setting for IE is required)
   
-Details
+#Details
 MD5 : 2E86D9F60263270622E9A6BDB13CDF10
 SHA1 : 00E44D64C46F7D278AF7DDA9ED2CD218B22F9929
 SHA256 : B79449918AE69E09A4606734FE7C729F7AB6FC5398B8FE05C2788CFC862F291E
 File size : 14.4KB (14,813 bytes)
 File type : PS1
 
-Requirements
+#Requirements
 Office 365 Business, Office 365 ProPlus, Office 365 Personal
-Release note
+
+#Release note
 2020-06-26 : Channel name changed.
 2019-04-19 : Verification procedure for installed Office 365 client  is added.
 2019-02-26 : Bud fixed / SSL/TLS issue.
