@@ -1,3 +1,5 @@
+Script for Update or Rollback Office 365 Client build
+
 ![Update-Office365](/info.png)
 
 Description
