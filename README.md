@@ -27,7 +27,7 @@ Office 365 Business, Office 365 ProPlus, Office 365 Personal
 
 Release note
 ==============
-2020-08-18 : Channel name bug fixed. (Correction by tobiasabele)
+2020-08-18 : Channel name bug fixed. (Correction by tobiasabele)   
 2020-06-26 : Channel name changed.   
 2019-04-19 : Verification procedure for installed Office 365 client  is added.   
 2019-02-26 : Bud fixed / SSL/TLS issue.   
