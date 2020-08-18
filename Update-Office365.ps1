@@ -59,7 +59,7 @@ $CDNBaseUrlMonthlyEnt = "http://officecdn.microsoft.com/pr/55336b82-a18d-4dd6-b5
 
 #Channel filter
 $current = [regex]::matches( $result, '<a href=\"(monthly-channel|current-channel)(.*?)</a>')
-$deferred = [regex]::matches( $result, '<a href=\"semi-annual-channel-(\d{4})(.*?)</a>')
+$deferred = [regex]::matches( $result, '<a href="(semi-annual-channel-(\d{4})|semi-annual-enterprise-channel#)(.*?)</a>') #Thanks for correction by tobiasabele, https://github.com/tobiasabele
 $firstDeferred = [regex]::matches( $result, '<a href=\"(semi-annual-channel-targeted-(\d{4})|semi-annual-enterprise-channel-preview)(.*?)</a>')
 $monthlyEnt = [regex]::Matches($result, '<a href=\"monthly-enterprise-channel(.*?)</a>')
 $ChannelChanged = $false
