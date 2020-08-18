@@ -15,10 +15,10 @@ Description
   
 Details
 ===========
-MD5 : 2E86D9F60263270622E9A6BDB13CDF10   
-SHA1 : 00E44D64C46F7D278AF7DDA9ED2CD218B22F9929   
-SHA256 : B79449918AE69E09A4606734FE7C729F7AB6FC5398B8FE05C2788CFC862F291E   
-File size : 14.4KB (14,813 bytes)   
+MD5 : 021078D21428D106435EEA12B582802B   
+SHA1 : 6760DC201A936CFEBDF7BF0C5AAA67DB76553948   
+SHA256 : 983C356485057EBD658C2373AA96FB7BD3050DBA3A94DC29539DBA61208AB0D8   
+File size : 14.5KB (14,916 bytes)   
 File type : PS1   
 
 Requirements
@@ -27,6 +27,7 @@ Office 365 Business, Office 365 ProPlus, Office 365 Personal
 
 Release note
 ==============
+2020-08-18 : Channel name bug fixed. (Correction by tobiasabele)
 2020-06-26 : Channel name changed.   
 2019-04-19 : Verification procedure for installed Office 365 client  is added.   
 2019-02-26 : Bud fixed / SSL/TLS issue.   
