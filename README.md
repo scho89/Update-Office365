@@ -1,6 +1,10 @@
 ### [Update-Office365.ps1](https://github.com/chosangho89/Update-Office365/raw/master/Update-Office365.ps1) : Script for Update or Rollback Office 365 Client build
 ##### You can also install this script using cmdlet "Install-Script Update-Office365" <http://scho.kr/update365psg>  
-Former https://aka.ms/update365 
+Former links:    
+https://aka.ms/update365   
+https://gallery.technet.microsoft.com/office/Script-for-Update-or-8fb223bd   
+https://gallery.technet.microsoft.com/Script-for-Update-or-8fb223bd
+
 
 ![Update-Office365](/info.png)
 
