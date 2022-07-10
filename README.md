@@ -16,6 +16,7 @@ Description
 -You may need to change execution policy of your system. (Run : Set-ExecutionPolicy -ExecutionPolicy RemoteSigned #more detail : https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)   
 -You may need to unblock this script. (User Unblock-File cmdlet or right click - Properties - Unblock)   
 -You need to run Internet Explorer if you get a blank drop down list of Version field. (Initial setting for IE is required)   
+-About this script (In Korean, yet) [Apps for Microsoft 365 update script](https://blog.scho.kr/microsoft365/Offfice365-Update-script/)
   
 Details
 ===========
